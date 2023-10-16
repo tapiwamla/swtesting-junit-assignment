@@ -1,8 +1,7 @@
 import org.junit.*;
 import org.junit.jupiter.api.Assertions;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class RomanNumeralTest {
+public class RomanTesting {
     // The class being tested is RomanNumeral.java.
     // The method being tested is romanToInt(String s).
     // The first three tests were written by the Instructor, DR. EUNICE MWANGI.
